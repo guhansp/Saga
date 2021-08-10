@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591811228432",
+    "project_id": "saga-24e6b",
+    "storage_bucket": "saga-24e6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591811228432:android:443491e10fc1c9358bab95",
+        "android_client_info": {
+          "package_name": "com.example.saga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591811228432-6mrsrjjh7b3999it6af2c8p70he8b3gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5-YC3ccTJA1zLJ6zZfDQ27Ti1Rm7Iq5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591811228432-6mrsrjjh7b3999it6af2c8p70he8b3gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

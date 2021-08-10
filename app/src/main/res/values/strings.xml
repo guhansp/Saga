@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Saga</string>
+    <string name="title_text">Saga The E-Journal </string>
+    <string name="saga_text">What has been your Greatest Adventure ?</string>
+    <string name="start_text">Get Started</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="or_text">Dont have an account ?</string>
+    <string name="Create_text">Create Account</string>
+    <string name="username_hint">Username</string>
+    <string name="Menu_title">Add Thoughts</string>
+    <string name="signout">Signout</string>
+</resources>
