@@ -4,4 +4,5 @@
 
 <h1> Screenshots </h1>
 
-<img src="screenshot.jpg">
+<img src="screenshot.png">
+<img src="screenshot1.png">
